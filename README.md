@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## Technologies I like using
+
+[<img align="left" alt="CMake" height="40px" src="https://cmake.org/wp-content/uploads/2018/11/cmake_logo_slider.png"/>](https://en.wikipedia.org/wiki/CMake)
+
+[<img align="left" alt="QMK" height="40px" src="https://avatars3.githubusercontent.com/u/25358678?s=200&v=4"/>](https://github.com/qmk)
+
+[<img align="left" alt="Git" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Git-logo-orange.svg/1920px-Git-logo-orange.svg.png"/>](https://en.wikipedia.org/wiki/Git)
+
 <!--
 **FabSchwul/FabSchwul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

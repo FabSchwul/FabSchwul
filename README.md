@@ -8,7 +8,7 @@
 
 [<img align="left" alt="Git" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Git-logo-orange.svg/1920px-Git-logo-orange.svg.png"/>](https://en.wikipedia.org/wiki/Git)
 
-[<img align="left" alt="Markdown" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/41/1280px_Markdown_with_White_Background.png"/>](https://en.wikipedia.org/wiki/Markdown)
+[<img align="left" alt="Markdown" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Markdown-blue-solid.svg"/>](https://en.wikipedia.org/wiki/Markdown)
 
 [<img align="left" alt="Linux" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Gnulinux.svg"/>](https://es.wikipedia.org/wiki/GNU/Linux)
 

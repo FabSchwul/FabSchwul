@@ -10,7 +10,7 @@
 
 [<img align="left" alt="Markdown" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Markdown-blue-solid.svg"/>](https://en.wikipedia.org/wiki/Markdown)
 
-[<img align="left" alt="Linux" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Gnulinux.svg"/>](https://es.wikipedia.org/wiki/GNU/Linux)
+[<img align="left" alt="GNU/Linux" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/GNU_and_Tux.svg"/>](https://es.wikipedia.org/wiki/GNU/Linux)
 
 <!--
 **FabSchwul/FabSchwul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

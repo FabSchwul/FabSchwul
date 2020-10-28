@@ -12,10 +12,22 @@
 
 [<img align="left" alt="GNU/Linux" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/GNU_and_Tux.svg"/>](https://es.wikipedia.org/wiki/GNU/Linux)
 
-## Currently learning
+And many more ...
 
-[<img align="left" alt="Kotlin" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Kotlin-logo.png"/>](https://kotlinlang.org/)
+  
+## 🚀 Technologies I like and use
 
+[<img align="left" alt="Linux" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png"/>](https://en.wikipedia.org/wiki/Linux)
+[<img align="left" alt="CMake" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/600px-Cmake.svg.png"/>](https://en.wikipedia.org/wiki/CMake)
+[<img align="left" alt="Vim" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1024px-Vimlogo.svg.png"/>](https://en.wikipedia.org/wiki/Vim_(text_editor))
+[<img align="left" alt="Git" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"/>](https://en.wikipedia.org/wiki/Git)
+[<img align="left" alt="Markdown" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png"/>](https://en.wikipedia.org/wiki/Markdown)
+
+<br/>
+
+### My PC configuration
+
+Actually I am using Arch Linux and my dotfiles are available [here](https://github.com/advy99/dotfiles)
 <!--
 **FabSchwul/FabSchwul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

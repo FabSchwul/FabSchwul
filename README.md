@@ -12,6 +12,8 @@
 
 [<img align="left" alt="GNU/Linux" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/GNU_and_Tux.svg"/>](https://es.wikipedia.org/wiki/GNU/Linux)
 
+<br>
+
 ## Currently learning
 
 [<img align="left" alt="Kotlin" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Kotlin-logo.png"/>](https://kotlinlang.org/)

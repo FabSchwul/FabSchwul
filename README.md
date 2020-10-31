@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+
+## Languages I know
+
+[<img align="left" alt="C" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>](https://en.wikipedia.org/wiki/C_(programming_language))
+
+[<img align="left" alt="C++" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>](https://en.wikipedia.org/wiki/C%2B%2B)
+
+<br>
 
 ## Technologies I like using
 

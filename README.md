@@ -24,7 +24,7 @@
 
 ## Currently learning
 
-[<img align="left" alt="Kotlin" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Kotlin-logo.png"/>](https://kotlinlang.org/)
+[<img align="left" alt="Python" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>](https://www.python.org/)
 
 <!--
 **FabSchwul/FabSchwul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

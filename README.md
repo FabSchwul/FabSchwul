@@ -6,6 +6,8 @@
 
 [<img align="left" alt="C++" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>](https://en.wikipedia.org/wiki/C%2B%2B)
 
+[<img align="left" alt="Python" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>](https://www.python.org/)
+
 <br>
 
 ## Technologies I like using
@@ -24,7 +26,7 @@
 
 ## Currently learning
 
-[<img align="left" alt="Python" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>](https://www.python.org/)
+
 
 <!--
 **FabSchwul/FabSchwul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

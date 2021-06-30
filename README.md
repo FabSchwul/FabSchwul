@@ -25,7 +25,7 @@
 <br>
 
 ## Currently learning
-
+[<img align="left" alt="Laravel" height="40px" src="https://laravel.com/img/logomark.min.svg"/>](https://laravel.com/)
 
 
 <!--
